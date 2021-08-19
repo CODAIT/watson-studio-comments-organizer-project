@@ -1,0 +1,15 @@
+Customer Online Comments Organizer
+The accelerator is created using Data Asset eXchange data to support retail industry. This application will allow companies to view customer reviews in a more organized manner. Reviews are grouped and sentiments are highlighted.
+
+What's included?
+A structured business glossary of more than 20 business terms.
+Sample data science assets
+How does it work?
+The glossary provides the information architecture that you need to understand retail related business measures. Your data scientists can use the sample notebooks, predictive models and dashboards to accelerate data preparation, machine learning modeling, and data reporting. Moreover, the data scientists may modify the sample notebooks for other business use cases and corresponding datasets.
+
+A central place for retailers to easily review customer feedback in an organized manner.
+
+When you import the accelerator:
+
+The terms are added to your business glossary under the Comments Organizer category.
+The data science assets are added to a new analytics project.
